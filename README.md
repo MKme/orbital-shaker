@@ -4,8 +4,7 @@
 <p align="center">
 <b>Open source orbital shaker for agitating anything</b><br>
 <br>
-Use this to add a simple radio master and slave with bi-directional communications between them
-Add any code you wish for your project and this will handle the radio communications backbone for you<br>
+Print in PLA 30% infill. Supports needed for adapters/crank. <br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
