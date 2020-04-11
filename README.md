@@ -24,6 +24,8 @@ https://www.youtube.com/watch?v=Tfv6wo20pNc&feature=emb_title
 
 Eric modifying the files and adding items so storuing it here in this repor as due to their learning structure it is not possible to fork the files here.
 Also adding other parts/adaptations to hold various bottles, beakers, flakss here. 
+
+Note: Print 2 idlers :)
  
  ### Wiring to adjust speed:
 | Pin On Module: |
@@ -33,6 +35,7 @@ Also adding other parts/adaptations to hold various bottles, beakers, flakss her
 
 
 ### Parts needed:
+M3 screws
 
 
 
