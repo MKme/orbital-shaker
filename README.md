@@ -26,9 +26,13 @@ https://www.youtube.com/watch?v=Tfv6wo20pNc&feature=emb_title
 ### Parts for this project:
 
 Motor https://amzn.to/2VCwZgO
+
 PWM controller https://amzn.to/3bkRHIE
+
 M3 M4 Hardware https://amzn.to/2VH21DZ
+
 Project Wiring https://amzn.to/2yuwrBt
+
 
 
 
@@ -39,6 +43,7 @@ Note: Print 2 idlers :)
  
  ### Wiring to adjust speed:
 | Pin On Module: |
+
 | ---------- |----------------|
 | EN Pin | GND  |
 
