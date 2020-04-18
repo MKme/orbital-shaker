@@ -16,7 +16,7 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 Full video here:
 https://www.youtube.com/watch?v=Yiz8bbaHESk
 
-<p align="center"><img src="https://github.com/MKme/orbital-shaker/blob/master/Photos/2.jpg"/></p>
+<p align="center"><img src="https://github.com/MKme/orbital-shaker/blob/master/Photos/2.JPG"/></p>
 
 ### Easy 3D Printed Lab equipment for shaking/agitaring any experiment
 
