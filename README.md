@@ -34,9 +34,12 @@ M3 M4 Hardware https://amzn.to/2VH21DZ
 Project Wiring https://amzn.to/2yuwrBt
 
 
+### NOTE:
+
+Eric uses a PWM motor control NOT a microcontroller. Link below and see video for assembly differences from Aafruit version. 
 
 
-Eric modifying the files and adding items so storuing it here in this repor as due to their learning structure it is not possible to fork the files here.
+Eric modifying the files and adding items so storing it here in this repor as due to their learning structure it is not possible to fork the files here.
 Also adding other parts/adaptations to hold various bottles, beakers, flakss here. 
 
 Note: Print 2 idlers :)
