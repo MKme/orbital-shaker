@@ -14,13 +14,23 @@ Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 Full video here:
-xxx
+https://www.youtube.com/watch?v=Yiz8bbaHESk
+
 <p align="center"><img src="https://github.com/MKme/orbital-shaker/blob/master/Photos/1.jpg"/></p>
 
 ### Easy 3D Printed Lab equipment for shaking/agitaring any experiment
 
 NOTE: This is directly sourced from Adafruit tutorial and code here:
 https://www.youtube.com/watch?v=Tfv6wo20pNc&feature=emb_title
+
+### Parts for this project:
+
+Motor https://amzn.to/2VCwZgO
+PWM controller https://amzn.to/3bkRHIE
+M3 M4 Hardware https://amzn.to/2VH21DZ
+Project Wiring https://amzn.to/2yuwrBt
+
+
 
 Eric modifying the files and adding items so storuing it here in this repor as due to their learning structure it is not possible to fork the files here.
 Also adding other parts/adaptations to hold various bottles, beakers, flakss here. 
@@ -31,11 +41,6 @@ Note: Print 2 idlers :)
 | Pin On Module: |
 | ---------- |----------------|
 | EN Pin | GND  |
-
-
-
-### Parts needed:
-M3 screws
 
 
 
